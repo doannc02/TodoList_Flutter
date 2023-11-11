@@ -1,0 +1,13 @@
+com.example.ui_todolist.app-core-1.6.0-0 C:\Users\sillv\.gradle\caches\transforms-3\1033e36e972b24f495cbeb7edb0f8401\transformed\core-1.6.0\res
+com.example.ui_todolist.app-jetified-annotation-experimental-1.1.0-1 C:\Users\sillv\.gradle\caches\transforms-3\424fe90f0bd6d50b9ed38cb53548737f\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.ui_todolist.app-jetified-window-java-1.0.0-beta04-2 C:\Users\sillv\.gradle\caches\transforms-3\5ddc55be9a1f9ca3021e908092377266\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.ui_todolist.app-jetified-window-1.0.0-beta04-3 C:\Users\sillv\.gradle\caches\transforms-3\beb1df14a36789fd46f1fa73f36b9595\transformed\jetified-window-1.0.0-beta04\res
+com.example.ui_todolist.app-main-4 D:\HP_Flutter\UI_TodoList\android\app\src\main\res
+com.example.ui_todolist.app-release-5 D:\HP_Flutter\UI_TodoList\android\app\src\release\res
+com.example.ui_todolist.app-pngs-6 D:\HP_Flutter\UI_TodoList\android\build\app\generated\res\pngs\release
+com.example.ui_todolist.app-resValues-7 D:\HP_Flutter\UI_TodoList\android\build\app\generated\res\resValues\release
+com.example.ui_todolist.app-rs-8 D:\HP_Flutter\UI_TodoList\android\build\app\generated\res\rs\release
+com.example.ui_todolist.app-mergeReleaseResources-9 D:\HP_Flutter\UI_TodoList\android\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.ui_todolist.app-mergeReleaseResources-10 D:\HP_Flutter\UI_TodoList\android\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.ui_todolist.app-merged_res-11 D:\HP_Flutter\UI_TodoList\android\build\app\intermediates\merged_res\release
+com.example.ui_todolist.app-packaged_res-12 D:\HP_Flutter\UI_TodoList\android\build\fluttertoast\intermediates\packaged_res\release
